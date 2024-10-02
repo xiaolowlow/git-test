@@ -1,3 +1,6 @@
 import numpy as np
 
-print(np.__version__)
+def new_func():
+    print(np.__version__)
+
+new_func()
